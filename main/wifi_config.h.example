@@ -1,0 +1,6 @@
+#pragma once
+
+/* Copy this file to wifi_config.h and fill in your own credentials.
+ * wifi_config.h is gitignored (plaintext secret). ESP32-S3 is 2.4GHz-only. */
+#define WIFI_SSID "your-ssid"
+#define WIFI_PASSWORD "your-password"

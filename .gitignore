@@ -1,0 +1,11 @@
+# Build artifacts
+build/
+managed_components/
+sdkconfig
+
+# OS / tooling junk
+.DS_Store
+__pycache__/
+
+# Local secrets — copy wifi_config.h.example and fill in your own
+main/wifi_config.h
