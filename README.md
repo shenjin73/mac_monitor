@@ -1,7 +1,7 @@
 # mac_monitor
 
 把 Mac 的系统状态和 CLI 会话状态实时显示到 Waveshare ESP32-S3-Touch-LCD-1.69 开发板上。
-灵感与数据规则移植自 macOS 应用 [kimi_monitor](/Users/jin/Projects/kimi_monitor)。
+灵感与数据规则移植自 macOS 应用 [kimi_monitor](https://github.com/shenjin73/kimi_monitor)。
 
 板子上 7 个屏幕，左右 swipe 切换（首尾循环），底部有点状页码指示：
 
